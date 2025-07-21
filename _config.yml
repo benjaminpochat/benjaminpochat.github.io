@@ -1,14 +1,12 @@
 theme: minima
+title: "Quelques notes..."
+linkedin_username: benjamin-pochat-0a68495
+timezone: Europe/Paris
 site:
   title: "Quelques notes..."
   description: "Quelques notes d'un développeur."
-  author:
-    name: Benjamin POCHAT
-    email: "benjamin.pochat@gmail.com"
+  author: Benjamin POCHAT
+  email: "benjamin.pochat@gmail.com"
 minima:
-  social_links:
-    - title : LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/benjamin-pochat-0a68495"
   skin: auto
 
