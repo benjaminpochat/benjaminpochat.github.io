@@ -4,9 +4,9 @@ author:
   name: Benjamin POCHAT
   email: "benjamin.pochat@gmail.com"
 minima:
-  social_links:
-    - title : LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/benjamin-pochat-0a68495"
+  # social_links:
+  #   - title : LinkedIn
+  #     icon: linkedin
+  #     url: "https://www.linkedin.com/in/benjamin-pochat-0a68495"
   skin: auto
 
