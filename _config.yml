@@ -8,6 +8,5 @@ minima:
     - title : LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/benjamin-pochat-0a68495"
-  show_excerpts: true
   skin: auto
 
