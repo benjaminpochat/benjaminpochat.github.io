@@ -1,2 +1,13 @@
-title: "Jekyll Actions Demo"
+title: "Quelques notes..."
 theme: minima
+author:
+  name: Benjamin POCHAT
+  email: "benjamin.pochat@gmail.com"
+minima:
+  social_links:
+    - title : LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/benjamin-pochat-0a68495"
+  show_excerpts: true
+  skin: auto
+
