@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Que faire avec les llm ?
 tags: llm mcp légifrance
 ---
 
