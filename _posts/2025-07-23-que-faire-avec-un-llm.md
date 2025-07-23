@@ -5,7 +5,7 @@ tags: llm mcp légifrance
 ---
 
 !["que faire quand tes enfants vivent le mythe de Prométhée ?" illustré par Le Chat de Mistral](/assets/illustrations/que_faire_quand_tes_enfants_vivent_le_mythe_de_promethee.jpg)
-<small>*"que faire quand tes enfants vivent le mythe de Prométhée ?" illustré par Le Chat de Mistral*</small>
+<small>*Illustration du thème "que faire quand tes enfants vivent le mythe de Prométhée ?" générée par Le Chat de Mistral AI*</small>
 
 # llm : que faire quand tes enfants vivent le mythe de Prométhée ?
 
